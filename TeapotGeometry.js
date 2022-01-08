@@ -327,7 +327,8 @@
 	}
 
 	THREE.TeapotGeometry = TeapotGeometry;
+    export { TeapotGeometry };
 
 } )();
 
-export { TeapotGeometry };
+//export { TeapotGeometry };
